@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elisefosse/cvut/bie-pa1/homework/warmup/output/prog'
+relocations:     []
+...
