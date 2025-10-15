@@ -4,6 +4,10 @@
 #define EPS 1e-9
 #define PI 3.14159265358979323846
 
+/* enkle min/max uten fmin/fmax (pedantic-kompatibelt) */
+#define MIN(a,b) ((a) < (b) ? (a) : (b))
+#define MAX(a,b) ((a) > (b) ? (a) : (b))
+
 int main(void)
 {
     double x1, y1, r1, x2, y2, r2;
@@ -11,12 +15,14 @@ int main(void)
     printf("Enter circle #1 parameters:\n");
     if (scanf("%lf %lf %lf", &x1, &y1, &r1) != 3 || r1 <= 0) {
         printf("Invalid input.\n");
+        fflush(stdout);
         return 0;
     }
 
     printf("Enter circle #2 parameters:\n");
     if (scanf("%lf %lf %lf", &x2, &y2, &r2) != 3 || r2 <= 0) {
         printf("Invalid input.\n");
+        fflush(stdout);
         return 0;
     }
 
@@ -29,40 +35,45 @@ int main(void)
     if (fabs(dx) < EPS && fabs(dy) < EPS && fabs(r1 - r2) < EPS) {
         overlap = PI * r1 * r1;
         printf("The circles are identical, overlap: %.6f\n", overlap);
+        fflush(stdout);
         return 0;
     }
 
     /* Disjoint (outside) */
     if (d > r1 + r2 + EPS) {
         printf("The circles lie outside each other, no overlap.\n");
+        fflush(stdout);
         return 0;
     }
 
     /* External touch */
     if (fabs(d - (r1 + r2)) <= EPS) {
         printf("External touch, no overlap.\n");
+        fflush(stdout);
         return 0;
     }
 
     /* One inside the other (no touch) */
-    if (d + fmin(r1, r2) < fmax(r1, r2) - EPS) {
-        double rSmall = fmin(r1, r2);
+    if (d + MIN(r1, r2) < MAX(r1, r2) - EPS) {
+        double rSmall = MIN(r1, r2);
         overlap = PI * rSmall * rSmall;
         if (r1 > r2)
             printf("Circle #2 lies inside circle #1, overlap: %.6f\n", overlap);
         else
             printf("Circle #1 lies inside circle #2, overlap: %.6f\n", overlap);
+        fflush(stdout);
         return 0;
     }
 
     /* Internal touch */
-    if (fabs(d + fmin(r1, r2) - fmax(r1, r2)) <= EPS) {
-        double rSmall = fmin(r1, r2);
+    if (fabs(d + MIN(r1, r2) - MAX(r1, r2)) <= EPS) {
+        double rSmall = MIN(r1, r2);
         overlap = PI * rSmall * rSmall;
         if (r1 > r2)
             printf("Internal touch, circle #2 lies inside circle #1, overlap: %.6f\n", overlap);
         else
             printf("Internal touch, circle #1 lies inside circle #2, overlap: %.6f\n", overlap);
+        fflush(stdout);
         return 0;
     }
 
@@ -77,5 +88,6 @@ int main(void)
         printf("The circles intersect, overlap: %.6f\n", overlap);
     }
 
+    fflush(stdout);
     return 0;
 }
