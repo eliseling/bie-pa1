@@ -1,0 +1,92 @@
+Denni naklady:
+Rozdil: 479, moznosti: 1
+* 26 - 55, 56 - 25
+Rozdil: 0, moznosti: 1
+* 0 - 26, 27 - 57
+Rozdil: 0, moznosti: 1
+* 0 - 26, 27 - 57
+Rozdil: 140, moznosti: 1
+* 1 - 28, 29 - 0
+Rozdil: 232, moznosti: 1
+* 1 - 28, 29 - 0
+Rozdil: 12, moznosti: 1
+* 15 - 45, 46 - 14
+Rozdil: 3256, moznosti: 1
+* 15 - 45, 46 - 14
+Rozdil: 952, moznosti: 1
+* 0 - 26, 27 - 57
+Rozdil: 1140, moznosti: 1
+* 0 - 26, 27 - 57
+Rozdil: 211, moznosti: 2
+* 14 - 43, 44 - 13
+* 20 - 47, 48 - 19
+Rozdil: 857, moznosti: 2
+* 14 - 43, 44 - 13
+* 20 - 47, 48 - 19
+Rozdil: 2492, moznosti: 1
+* 2 - 30, 31 - 1
+Rozdil: 707, moznosti: 1
+* 2 - 30, 31 - 1
+Rozdil: 354, moznosti: 1
+* 22 - 47, 48 - 21
+Rozdil: 703, moznosti: 1
+* 5 - 32, 33 - 4
+Rozdil: 2934, moznosti: 1
+* 15 - 43, 44 - 14
+Rozdil: 16, moznosti: 1
+* 24 - 50, 51 - 23
+Rozdil: 468, moznosti: 1
+* 17 - 44, 45 - 16
+Rozdil: 416, moznosti: 1
+* 14 - 42, 43 - 13
+Rozdil: 510, moznosti: 1
+* 21 - 46, 47 - 20
+Rozdil: 146, moznosti: 1
+* 21 - 46, 47 - 20
+Rozdil: 590, moznosti: 1
+* 27 - 56, 57 - 26
+Rozdil: 806, moznosti: 3
+* 9 - 36, 37 - 8
+* 14 - 41, 42 - 13
+* 23 - 47, 48 - 22
+Rozdil: 408, moznosti: 3
+* 9 - 36, 37 - 8
+* 14 - 41, 42 - 13
+* 23 - 47, 48 - 22
+Rozdil: 0, moznosti: 1
+* 29 - 55, 56 - 28
+Rozdil: 0, moznosti: 1
+* 29 - 55, 56 - 28
+Rozdil: 882, moznosti: 1
+* 3 - 31, 32 - 2
+Rozdil: 364, moznosti: 1
+* 18 - 44, 45 - 17
+Rozdil: 513, moznosti: 1
+* 15 - 45, 46 - 14
+Rozdil: 570, moznosti: 1
+* 21 - 45, 46 - 20
+Rozdil: 9, moznosti: 1
+* 0 - 26, 27 - 57
+Rozdil: 374, moznosti: 1
+* 15 - 42, 43 - 14
+Rozdil: 4617, moznosti: 1
+* 16 - 43, 44 - 15
+Rozdil: 6048, moznosti: 1
+* 16 - 43, 44 - 15
+Rozdil: 994, moznosti: 1
+* 25 - 52, 53 - 24
+Rozdil: 749, moznosti: 1
+* 25 - 52, 53 - 24
+Rozdil: 990, moznosti: 1
+* 2 - 29, 30 - 1
+Rozdil: 833, moznosti: 1
+* 10 - 38, 39 - 9
+Rozdil: 2509, moznosti: 1
+* 8 - 34, 35 - 7
+Rozdil: 355, moznosti: 2
+* 0 - 26, 27 - 57
+* 9 - 36, 37 - 8
+Rozdil: 320, moznosti: 1
+* 17 - 44, 45 - 16
+Rozdil: 1454, moznosti: 1
+* 6 - 33, 34 - 5

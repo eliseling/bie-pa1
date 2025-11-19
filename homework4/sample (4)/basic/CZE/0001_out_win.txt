@@ -1,0 +1,16 @@
+Denni naklady:
+Rozdil: 0, moznosti: 4
+* 0 - 3, 4 - 7
+* 1 - 4, 5 - 0
+* 2 - 5, 6 - 1
+* 3 - 6, 7 - 2
+Rozdil: 0, moznosti: 4
+* 0 - 3, 4 - 7
+* 1 - 4, 5 - 0
+* 2 - 5, 6 - 1
+* 3 - 6, 7 - 2
+Rozdil: 660, moznosti: 2
+* 1 - 3, 4 - 0
+* 2 - 6, 7 - 1
+Rozdil: 685, moznosti: 1
+* 2 - 6, 7 - 1

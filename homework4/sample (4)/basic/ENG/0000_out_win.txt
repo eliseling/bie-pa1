@@ -1,0 +1,7 @@
+Daily cost:
+Difference: 5, options: 1
+* 2 - 4, 5 - 1
+Difference: 1835, options: 1
+* 2 - 4, 5 - 1
+Difference: 1555, options: 1
+* 2 - 4, 5 - 1

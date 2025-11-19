@@ -1,0 +1,5 @@
+Denni naklady:
+Rozdil: 0, moznosti: 1
+* 3 - 4, 5 - 2
+Rozdil: 4697, moznosti: 1
+* 1 - 3, 4 - 0

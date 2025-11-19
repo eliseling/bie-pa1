@@ -1,0 +1,107 @@
+Denni naklady:
+Rozdil: 1410, moznosti: 1
+* 11 - 53, 54 - 10
+Rozdil: 1244, moznosti: 1
+* 12 - 54, 55 - 11
+Rozdil: 513, moznosti: 1
+* 28 - 72, 73 - 27
+Rozdil: 780, moznosti: 2
+* 21 - 60, 61 - 20
+* 39 - 83, 84 - 38
+Rozdil: 234, moznosti: 1
+* 24 - 65, 66 - 23
+Rozdil: 13696, moznosti: 1
+* 5 - 49, 50 - 4
+Rozdil: 5605, moznosti: 1
+* 31 - 74, 75 - 30
+Rozdil: 315, moznosti: 1
+* 36 - 80, 81 - 35
+Rozdil: 2310, moznosti: 2
+* 2 - 45, 46 - 1
+* 4 - 48, 49 - 3
+Rozdil: 7328, moznosti: 1
+* 17 - 57, 58 - 16
+Rozdil: 7422, moznosti: 2
+* 3 - 43, 44 - 2
+* 17 - 56, 57 - 16
+Rozdil: 984, moznosti: 2
+* 31 - 73, 74 - 30
+* 34 - 77, 78 - 33
+Rozdil: 2817, moznosti: 1
+* 40 - 83, 84 - 39
+Rozdil: 1632, moznosti: 1
+* 22 - 63, 64 - 21
+Rozdil: 1446, moznosti: 2
+* 10 - 52, 53 - 9
+* 32 - 75, 76 - 31
+Rozdil: 9386, moznosti: 1
+* 27 - 69, 70 - 26
+Rozdil: 2629, moznosti: 1
+* 19 - 59, 60 - 18
+Rozdil: 2835, moznosti: 1
+* 33 - 77, 78 - 32
+Rozdil: 4987, moznosti: 1
+* 20 - 60, 61 - 19
+Rozdil: 3392, moznosti: 1
+* 22 - 65, 66 - 21
+Rozdil: 350, moznosti: 1
+* 14 - 55, 56 - 13
+Rozdil: 864, moznosti: 2
+* 17 - 58, 59 - 16
+* 25 - 69, 70 - 24
+Rozdil: 3, moznosti: 1
+* 1 - 41, 42 - 0
+Rozdil: 9310, moznosti: 1
+* 32 - 72, 73 - 31
+Rozdil: 266, moznosti: 2
+* 16 - 53, 54 - 15
+* 35 - 77, 78 - 34
+Rozdil: 2146, moznosti: 1
+* 34 - 76, 77 - 33
+Rozdil: 3918, moznosti: 1
+* 2 - 42, 43 - 1
+Rozdil: 4, moznosti: 1
+* 19 - 59, 60 - 18
+Rozdil: 400, moznosti: 1
+* 17 - 56, 57 - 16
+Rozdil: 5397, moznosti: 1
+* 12 - 51, 52 - 11
+Rozdil: 2107, moznosti: 1
+* 40 - 82, 83 - 39
+Rozdil: 8835, moznosti: 1
+* 22 - 63, 64 - 21
+Rozdil: 110, moznosti: 1
+* 17 - 57, 58 - 16
+Rozdil: 1647, moznosti: 1
+* 28 - 70, 71 - 27
+Rozdil: 1038, moznosti: 1
+* 41 - 82, 83 - 40
+Rozdil: 29, moznosti: 1
+* 18 - 57, 58 - 17
+Rozdil: 521, moznosti: 1
+* 12 - 53, 54 - 11
+Rozdil: 1256, moznosti: 1
+* 16 - 53, 54 - 15
+Rozdil: 6, moznosti: 2
+* 16 - 53, 54 - 15
+* 35 - 77, 78 - 34
+Rozdil: 318, moznosti: 1
+* 6 - 47, 48 - 5
+Rozdil: 154, moznosti: 1
+* 14 - 54, 55 - 13
+Rozdil: 6771, moznosti: 1
+* 27 - 69, 70 - 26
+Rozdil: 860, moznosti: 1
+* 1 - 43, 44 - 0
+Rozdil: 2477, moznosti: 1
+* 10 - 53, 54 - 9
+Rozdil: 4883, moznosti: 1
+* 31 - 73, 74 - 30
+Rozdil: 13171, moznosti: 1
+* 16 - 54, 55 - 15
+Rozdil: 4693, moznosti: 1
+* 3 - 44, 45 - 2
+Rozdil: 974, moznosti: 1
+* 10 - 51, 52 - 9
+Rozdil: 10920, moznosti: 1
+* 7 - 48, 49 - 6

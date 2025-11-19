@@ -1,0 +1,95 @@
+Daily cost:
+Difference: 628, options: 2
+* 14 - 50, 51 - 13
+* 17 - 53, 54 - 16
+Difference: 1025, options: 2
+* 7 - 46, 47 - 6
+* 18 - 53, 54 - 17
+Difference: 2032, options: 1
+* 12 - 50, 51 - 11
+Difference: 5128, options: 1
+* 5 - 42, 43 - 4
+Difference: 2523, options: 1
+* 30 - 65, 66 - 29
+Difference: 4487, options: 1
+* 35 - 67, 68 - 34
+Difference: 2883, options: 1
+* 2 - 37, 38 - 1
+Difference: 0, options: 1
+* 3 - 37, 38 - 2
+Difference: 706, options: 1
+* 24 - 59, 60 - 23
+Difference: 0, options: 1
+* 0 - 30, 31 - 69
+Difference: 457, options: 1
+* 13 - 50, 51 - 12
+Difference: 26, options: 2
+* 23 - 58, 59 - 22
+* 35 - 67, 68 - 34
+Difference: 4458, options: 1
+* 31 - 68, 69 - 30
+Difference: 1556, options: 1
+* 29 - 68, 69 - 28
+Difference: 5731, options: 1
+* 28 - 66, 67 - 27
+Difference: 0, options: 1
+* 18 - 54, 55 - 17
+Difference: 206, options: 1
+* 0 - 33, 34 - 69
+Difference: 1112, options: 2
+* 27 - 64, 65 - 26
+* 32 - 67, 68 - 31
+Difference: 1075, options: 1
+* 6 - 42, 43 - 5
+Difference: 581, options: 1
+* 1 - 34, 35 - 0
+Difference: 3782, options: 1
+* 6 - 42, 43 - 5
+Difference: 3008, options: 1
+* 34 - 68, 69 - 33
+Difference: 611, options: 1
+* 29 - 66, 67 - 28
+Difference: 615, options: 1
+* 6 - 43, 44 - 5
+Difference: 798, options: 1
+* 29 - 66, 67 - 28
+Difference: 1797, options: 1
+* 17 - 51, 52 - 16
+Difference: 3050, options: 1
+* 27 - 63, 64 - 26
+Difference: 3735, options: 1
+* 1 - 34, 35 - 0
+Difference: 629, options: 1
+* 26 - 59, 60 - 25
+Difference: 968, options: 1
+* 0 - 32, 33 - 69
+Difference: 5640, options: 1
+* 30 - 67, 68 - 29
+Difference: 2380, options: 1
+* 17 - 51, 52 - 16
+Difference: 135, options: 1
+* 26 - 61, 62 - 25
+Difference: 3305, options: 1
+* 4 - 37, 38 - 3
+Difference: 4622, options: 1
+* 22 - 57, 58 - 21
+Difference: 1607, options: 1
+* 10 - 46, 47 - 9
+Difference: 1522, options: 1
+* 2 - 36, 37 - 1
+Difference: 856, options: 1
+* 9 - 44, 45 - 8
+Difference: 467, options: 1
+* 7 - 45, 46 - 6
+Difference: 926, options: 1
+* 19 - 54, 55 - 18
+Difference: 1950, options: 1
+* 23 - 57, 58 - 22
+Difference: 1569, options: 1
+* 30 - 66, 67 - 29
+Difference: 1239, options: 1
+* 26 - 60, 61 - 25
+Difference: 2281, options: 1
+* 15 - 50, 51 - 14
+Difference: 70, options: 1
+* 33 - 68, 69 - 32

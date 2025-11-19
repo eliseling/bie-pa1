@@ -1,0 +1,93 @@
+Denni naklady:
+Rozdil: 459, moznosti: 1
+* 19 - 45, 46 - 18
+Rozdil: 228, moznosti: 1
+* 19 - 45, 46 - 18
+Rozdil: 3222, moznosti: 1
+* 19 - 45, 46 - 18
+Rozdil: 3966, moznosti: 1
+* 19 - 45, 46 - 18
+Rozdil: 1764, moznosti: 1
+* 19 - 45, 46 - 18
+Rozdil: 2610, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 690, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 3402, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 3042, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 89, moznosti: 1
+* 1 - 25, 26 - 0
+Rozdil: 73, moznosti: 1
+* 1 - 25, 26 - 0
+Rozdil: 269, moznosti: 1
+* 1 - 25, 26 - 0
+Rozdil: 54, moznosti: 1
+* 1 - 25, 26 - 0
+Rozdil: 2324, moznosti: 2
+* 7 - 31, 32 - 6
+* 11 - 35, 36 - 10
+Rozdil: 2056, moznosti: 2
+* 7 - 31, 32 - 6
+* 11 - 35, 36 - 10
+Rozdil: 740, moznosti: 2
+* 7 - 31, 32 - 6
+* 11 - 35, 36 - 10
+Rozdil: 1384, moznosti: 2
+* 7 - 31, 32 - 6
+* 11 - 35, 36 - 10
+Rozdil: 3474, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 3879, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 4473, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 4860, moznosti: 1
+* 21 - 49, 50 - 20
+Rozdil: 0, moznosti: 1
+* 18 - 43, 44 - 17
+Rozdil: 0, moznosti: 1
+* 18 - 43, 44 - 17
+Rozdil: 502, moznosti: 1
+* 3 - 26, 27 - 2
+Rozdil: 0, moznosti: 1
+* 18 - 43, 44 - 17
+Rozdil: 808, moznosti: 1
+* 22 - 51, 52 - 21
+Rozdil: 656, moznosti: 1
+* 22 - 51, 52 - 21
+Rozdil: 143, moznosti: 1
+* 1 - 24, 25 - 0
+Rozdil: 790, moznosti: 1
+* 22 - 51, 52 - 21
+Rozdil: 688, moznosti: 2
+* 18 - 44, 45 - 17
+* 22 - 51, 52 - 21
+Rozdil: 156, moznosti: 2
+* 18 - 44, 45 - 17
+* 22 - 51, 52 - 21
+Rozdil: 611, moznosti: 1
+* 12 - 35, 36 - 11
+Rozdil: 1248, moznosti: 2
+* 18 - 44, 45 - 17
+* 22 - 51, 52 - 21
+Rozdil: 310, moznosti: 2
+* 5 - 28, 29 - 4
+* 14 - 37, 38 - 13
+Rozdil: 606, moznosti: 1
+* 19 - 46, 47 - 18
+Rozdil: 378, moznosti: 2
+* 5 - 28, 29 - 4
+* 14 - 37, 38 - 13
+Rozdil: 330, moznosti: 2
+* 5 - 28, 29 - 4
+* 14 - 37, 38 - 13
+Rozdil: 602, moznosti: 1
+* 21 - 50, 51 - 20
+Rozdil: 560, moznosti: 1
+* 21 - 50, 51 - 20
+Rozdil: 266, moznosti: 1
+* 21 - 50, 51 - 20
+Rozdil: 1270, moznosti: 1
+* 21 - 50, 51 - 20

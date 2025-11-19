@@ -1,0 +1,81 @@
+Daily cost:
+Difference: 3330, options: 1
+* 8 - 30, 31 - 7
+Difference: 7575, options: 1
+* 8 - 30, 31 - 7
+Difference: 5625, options: 1
+* 8 - 30, 31 - 7
+Difference: 4965, options: 1
+* 8 - 30, 31 - 7
+Difference: 5145, options: 1
+* 8 - 30, 31 - 7
+Difference: 5145, options: 1
+* 8 - 30, 31 - 7
+Difference: 7845, options: 1
+* 8 - 30, 31 - 7
+Difference: 3675, options: 1
+* 8 - 30, 31 - 7
+Difference: 7785, options: 1
+* 8 - 30, 31 - 7
+Difference: 3285, options: 1
+* 8 - 30, 31 - 7
+Difference: 7770, options: 1
+* 8 - 30, 31 - 7
+Difference: 4680, options: 1
+* 8 - 30, 31 - 7
+Difference: 1230, options: 1
+* 8 - 30, 31 - 7
+Difference: 5295, options: 1
+* 8 - 30, 31 - 7
+Difference: 7770, options: 1
+* 8 - 30, 31 - 7
+Difference: 6405, options: 1
+* 8 - 30, 31 - 7
+Difference: 4680, options: 1
+* 8 - 30, 31 - 7
+Difference: 7860, options: 1
+* 8 - 30, 31 - 7
+Difference: 3555, options: 1
+* 8 - 30, 31 - 7
+Difference: 7560, options: 1
+* 8 - 30, 31 - 7
+Difference: 6270, options: 1
+* 8 - 30, 31 - 7
+Difference: 4830, options: 1
+* 8 - 30, 31 - 7
+Difference: 5265, options: 1
+* 8 - 30, 31 - 7
+Difference: 525, options: 1
+* 8 - 30, 31 - 7
+Difference: 6315, options: 1
+* 8 - 30, 31 - 7
+Difference: 960, options: 1
+* 8 - 30, 31 - 7
+Difference: 600, options: 1
+* 8 - 30, 31 - 7
+Difference: 2940, options: 1
+* 8 - 30, 31 - 7
+Difference: 1545, options: 1
+* 8 - 30, 31 - 7
+Difference: 1335, options: 1
+* 8 - 30, 31 - 7
+Difference: 4530, options: 1
+* 8 - 30, 31 - 7
+Difference: 4320, options: 1
+* 8 - 30, 31 - 7
+Difference: 1755, options: 1
+* 8 - 30, 31 - 7
+Difference: 15, options: 1
+* 8 - 30, 31 - 7
+Difference: 3855, options: 1
+* 8 - 30, 31 - 7
+Difference: 6240, options: 1
+* 8 - 30, 31 - 7
+Difference: 120, options: 1
+* 8 - 30, 31 - 7
+Difference: 6885, options: 1
+* 8 - 30, 31 - 7
+Difference: 720, options: 1
+* 8 - 30, 31 - 7
+Difference: 6435, options: 1
+* 8 - 30, 31 - 7

@@ -1,0 +1,95 @@
+Denni naklady:
+Rozdil: 628, moznosti: 2
+* 14 - 50, 51 - 13
+* 17 - 53, 54 - 16
+Rozdil: 1025, moznosti: 2
+* 7 - 46, 47 - 6
+* 18 - 53, 54 - 17
+Rozdil: 2032, moznosti: 1
+* 12 - 50, 51 - 11
+Rozdil: 5128, moznosti: 1
+* 5 - 42, 43 - 4
+Rozdil: 2523, moznosti: 1
+* 30 - 65, 66 - 29
+Rozdil: 4487, moznosti: 1
+* 35 - 67, 68 - 34
+Rozdil: 2883, moznosti: 1
+* 2 - 37, 38 - 1
+Rozdil: 0, moznosti: 1
+* 3 - 37, 38 - 2
+Rozdil: 706, moznosti: 1
+* 24 - 59, 60 - 23
+Rozdil: 0, moznosti: 1
+* 0 - 30, 31 - 69
+Rozdil: 457, moznosti: 1
+* 13 - 50, 51 - 12
+Rozdil: 26, moznosti: 2
+* 23 - 58, 59 - 22
+* 35 - 67, 68 - 34
+Rozdil: 4458, moznosti: 1
+* 31 - 68, 69 - 30
+Rozdil: 1556, moznosti: 1
+* 29 - 68, 69 - 28
+Rozdil: 5731, moznosti: 1
+* 28 - 66, 67 - 27
+Rozdil: 0, moznosti: 1
+* 18 - 54, 55 - 17
+Rozdil: 206, moznosti: 1
+* 0 - 33, 34 - 69
+Rozdil: 1112, moznosti: 2
+* 27 - 64, 65 - 26
+* 32 - 67, 68 - 31
+Rozdil: 1075, moznosti: 1
+* 6 - 42, 43 - 5
+Rozdil: 581, moznosti: 1
+* 1 - 34, 35 - 0
+Rozdil: 3782, moznosti: 1
+* 6 - 42, 43 - 5
+Rozdil: 3008, moznosti: 1
+* 34 - 68, 69 - 33
+Rozdil: 611, moznosti: 1
+* 29 - 66, 67 - 28
+Rozdil: 615, moznosti: 1
+* 6 - 43, 44 - 5
+Rozdil: 798, moznosti: 1
+* 29 - 66, 67 - 28
+Rozdil: 1797, moznosti: 1
+* 17 - 51, 52 - 16
+Rozdil: 3050, moznosti: 1
+* 27 - 63, 64 - 26
+Rozdil: 3735, moznosti: 1
+* 1 - 34, 35 - 0
+Rozdil: 629, moznosti: 1
+* 26 - 59, 60 - 25
+Rozdil: 968, moznosti: 1
+* 0 - 32, 33 - 69
+Rozdil: 5640, moznosti: 1
+* 30 - 67, 68 - 29
+Rozdil: 2380, moznosti: 1
+* 17 - 51, 52 - 16
+Rozdil: 135, moznosti: 1
+* 26 - 61, 62 - 25
+Rozdil: 3305, moznosti: 1
+* 4 - 37, 38 - 3
+Rozdil: 4622, moznosti: 1
+* 22 - 57, 58 - 21
+Rozdil: 1607, moznosti: 1
+* 10 - 46, 47 - 9
+Rozdil: 1522, moznosti: 1
+* 2 - 36, 37 - 1
+Rozdil: 856, moznosti: 1
+* 9 - 44, 45 - 8
+Rozdil: 467, moznosti: 1
+* 7 - 45, 46 - 6
+Rozdil: 926, moznosti: 1
+* 19 - 54, 55 - 18
+Rozdil: 1950, moznosti: 1
+* 23 - 57, 58 - 22
+Rozdil: 1569, moznosti: 1
+* 30 - 66, 67 - 29
+Rozdil: 1239, moznosti: 1
+* 26 - 60, 61 - 25
+Rozdil: 2281, moznosti: 1
+* 15 - 50, 51 - 14
+Rozdil: 70, moznosti: 1
+* 33 - 68, 69 - 32
