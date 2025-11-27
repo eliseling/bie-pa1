@@ -1,0 +1,12 @@
+Data z kamer:
+Hledani:
+> Predchazejici: Oct 1 08:50, 1x [25]
+> Pozdejsi: Oct 1 10:50, 1x [11]
+> Predchazejici: Oct 1 07:30, 3x [10, 10, 17]
+> Pozdejsi: Oct 1 08:50, 1x [25]
+> Presne: Oct 1 07:30, 3x [10, 10, 17]
+> Predchazejici: Oct 10 15:40, 1x [289]
+> Pozdejsi: N/A
+> Automobil nenalezen.
+> Predchazejici: N/A
+> Pozdejsi: Dec 21 06:00, 1x [42]

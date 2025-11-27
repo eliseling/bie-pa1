@@ -1,0 +1,5 @@
+Camera reports:
+Search:
+> Previous: N/A
+> Next: Oct 1 07:30, 1x [10]
+Invalid input.
