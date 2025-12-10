@@ -1,0 +1,14 @@
+Databaze DNA:
+Hledani:
+Nalezeno: 3
+> GTACCTATAACA
+> CCCTATCCTTAG
+> CCTCCCCCC
+Nalezeno: 2
+> ATAAGCCTA
+> GTACCTATAACA
+Nalezeno: 1
+> GTACCTATAACA
+Nalezeno: 0
+Nalezeno: 0
+Nespravny vstup.

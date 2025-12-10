@@ -1,0 +1,6 @@
+Digits:
+Problems:
+= 1+2+3*4-5
+= 12-3-4+5
+Total: 2
+Invalid input.

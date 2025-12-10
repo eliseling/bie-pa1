@@ -1,0 +1,6 @@
+Cislice:
+Problemy:
+= 1+2+3*4-5
+= 12-3-4+5
+Celkem: 2
+Nespravny vstup.

@@ -1,0 +1,9 @@
+Digits:
+Problems:
+= 3-1*3
+= 3*1-3
+= 3/1-3
+Total: 3
+Total: 0
+= 3-13
+Total: 1

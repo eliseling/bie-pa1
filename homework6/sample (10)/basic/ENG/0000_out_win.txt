@@ -1,0 +1,14 @@
+DNA database:
+Searches:
+Found: 3
+> GTACCTATAACA
+> CCCTATCCTTAG
+> CCTCCCCCC
+Found: 2
+> ATAAGCCTA
+> GTACCTATAACA
+Found: 1
+> GTACCTATAACA
+Found: 0
+Found: 0
+Invalid input.
